@@ -1,0 +1,11 @@
+{
+    "name":         "jquery.swiper",
+    "version":      "0.0.1",
+    "dependencies": {
+        "requirejs.css":     "*",
+        "idangerous-swiper": "*"
+    },
+    "main":         [
+        "jquery.swiper.js"
+    ]
+}
