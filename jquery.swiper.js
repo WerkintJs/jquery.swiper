@@ -1,6 +1,6 @@
 define([
-  'dist/js/swiper.js',
-  'css!dist/css/swiper.css',
+  'dist/js/swiper',
+  'css!dist/css/swiper',
 ], function(Swiper){
   return Swiper;
 });
